@@ -13,6 +13,24 @@
     {% endfor %}
   </section>
 
+  <!--- LIVE AGE COUNTER --->
+  <section class="about-text">
+    <p>Current age: <span id="live-age" style="font-weight: bold; color: var(--orange-yellow-crayola);"></span></p>
+    <p>Based in Malaga, Spain 🇪🇸</p>
+  </section>
+
+  <script>
+    function updateAge() {
+      const birthday = new Date("2000-03-05"); 
+      const now = new Date();
+      const ageMs = now - birthday;
+      const ageYears = ageMs / (1000 * 60 * 60 * 24 * 365.25);
+      document.getElementById("live-age").textContent = ageYears.toFixed(8);
+    }
+    updateAge();
+    setInterval(updateAge, 100);
+  </script>
+
   <!--- DOING -->
   {% if about.DOING.enabled %}
   <section class="service">
