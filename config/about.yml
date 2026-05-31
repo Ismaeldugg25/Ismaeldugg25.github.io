@@ -5,7 +5,7 @@ PRESENTATION:
   description: |
     Passionate junior Cloud/DevOps engineer who loves bulding and breaking things in the cloud.
     
-    Right now, I am focused on building practical projects and developing my skills with AWS, Terraform, Docker, Kubernetes, and other DevOps tools. Check out my projects on this page!
+    Right now, I am focused on building practical projects and developing my skills with AWS, Terraform, Docker, Kubernetes, and other DevOps tools. Check out my projects in the portfolio section!
   
 DOING:
   enabled: true
@@ -31,15 +31,15 @@ SKILLS:
     - title: "Fast Learner"
       icon: "config/assets/icons/bolt.svg"
       description: "I quickly acquire new knowledge and adapt to changing technological environments."
+    - title: "Bilingual"
+      icon: "config/assets/icons/comment.svg"
+      description: "Native fluent in both English and Spanish, enabling clear communication across diverse teams."
     - title: "Teamwork"
       icon: "config/assets/icons/user.svg"
       description: "I collaborate effectively in multidisciplinary teams and communicate clearly with all stakeholders."
     - title: "Problem Solving"
       icon: "config/assets/icons/gear.svg"
       description: "I identify and resolve technical issues efficiently with a methodical approach."
-    - title: "Bilingual"
-      icon: "config/assets/icons/comment.svg"
-      description: "Native fluent in both English and Spanish, enabling clear communication across diverse teams."
 
 TECHNOLOGIES:
   enabled: true
