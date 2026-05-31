@@ -4,7 +4,7 @@ HEADER:
 PROJECTS:
   - title: "Budget Monitoring with AWS Budgets and SNS"
     category: "AWS"
-    image: "https://i.imgur.com/ANDVQ4o.png"
+    image: "config/assets/projects/aws budgets .png"
     url: "https://github.com/Ismaeldugg25/budget-monitoring-aws"
 
 
