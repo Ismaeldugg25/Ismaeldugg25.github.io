@@ -2,8 +2,9 @@ HEADER:
   label: "Blog"
 
 POSTS:
-
-
+  - title: "Soon"
+    description: "Short description"
+    published: "2026-05-31"
 
    # title: "Design Digest #79"
    # category: "Design"
