@@ -7,8 +7,8 @@ EXPERIENCE:
   label: "Experience"
   items:
     - period: "May 2026 — Present"
-      position: "Junior DevOps Engineer — Internship xFusionCorp (Remote)"
-      description: "Transitioning into DevOps engineering, applying cloud and infrastructure knowledge gained during Systems Administrator internship. Focused on containerization, CI/ CD pipelines and cloud infrastructure automation."
+      position: "Junior Cloud/DevOps Engineer — Internship xFusionCorp (Remote)"
+      description: "Transitioning into Cloud/DevOps engineering, applying cloud and infrastructure knowledge gained during Systems Administrator internship. Focused on containerization, CI/ CD pipelines and cloud infrastructure automation."
     - period: "Oct 2025 — Apr 2026"
       position: "Systems Administrator — Internship xFusionCorp (Remote)"
       description: "Assigned to the Nautilus Project on Stratos Datacenter, managing a three-tier architecture including Data, Application and Client tiers with a Load Balancer and shared services. Administered Linux systems (Ubuntu, CentOS), managed SSH, Cron Jobs, user and permission management, Apache and Nginx web services, and Bash scripting. Implemented security hardening, firewall configuration and performance monitoring across the infrastructure."
