@@ -4,11 +4,11 @@ HEADER:
 PROJECTS:
   - title: "Budget Monitoring with AWS Budgets and SNS"
     category: "AWS"
-    image: "config/assets/projects/aws budgets .png"
+    image: "config/assets/projects/aws-budgets.png"
     url: "https://github.com/Ismaeldugg25/budget-monitoring-aws"
 
 
     #title: "Arrival"
     #category: "Web development"
     #image: "config/assets/projects/project-9.png"
-    #url: "https://github.com/ivansaul/flutter_cinemapedia_app#screenshots"
+    #url: 
