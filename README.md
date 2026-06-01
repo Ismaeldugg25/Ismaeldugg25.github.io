@@ -6,7 +6,7 @@
 </h1>
 
 
-Fully responsive personal developer portfolio single-page website, <br/>
+Fully responsive personal portfolio single-page website, <br/>
 responsive for all devices, built using **`HTML`**, **`CSS`**, **`JavaScript`**, and **`Python`**.
 
 ![Made-with-python](https://img.shields.io/badge/Made%20with-Python-orange)
