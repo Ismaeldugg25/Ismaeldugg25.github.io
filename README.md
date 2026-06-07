@@ -11,6 +11,8 @@ responsive for all devices, built using **`HTML`**, **`CSS`**, **`JavaScript`**,
 
 ![Made-with-python](https://img.shields.io/badge/Made%20with-Python-orange)
 ## Live Site
+<img width="1540" height="876" alt="image" src="https://github.com/user-attachments/assets/e7216144-38d9-4d54-a7dd-2917e8d79f5c" />
+
 [ismaeldugg25.github.io](https://ismaeldugg25.github.io)
 
 ## How it's built?
