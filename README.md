@@ -2,7 +2,7 @@
 <div align="center">
 
 <h1 style="border-bottom: none">
-    <b><a href="https://ivansaul.github.io/personal-portfolio">Personal Portfolio - Junior Cloud Engineer</a></b>
+    <b><a href="https://ivansaul.github.io/personal-portfolio">Personal Portfolio - Junior Cloud/DevOps Engineer</a></b>
 </h1>
 
 
