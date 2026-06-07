@@ -7,8 +7,8 @@ PROJECTS:
     image: "config/assets/projects/aws-budgets.png"
     url: "https://github.com/Ismaeldugg25/budget-monitoring-aws"
 
+-   title: "Centralized Alert Management System with User Notifications and CloudWatch"
+    category: "AWS"
+    image: "config/assets/projects/0308b86c1986f514cc7ac98748f9c85c_kix.g4x8cy4yvhun.webp"
+    url: "https://github.com/Ismaeldugg25/centralized-alert-management-system-aws"
 
-    #title: "Arrival"
-    #category: "Web development"
-    #image: "config/assets/projects/project-9.png"
-    #url: 
