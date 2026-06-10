@@ -9,3 +9,11 @@ PROJECTS:
     category: "AWS"
     image: "config/assets/projects/0308b86c1986f514cc7ac98748f9c85c_kix.g4x8cy4yvhun.webp"
     url: "https://github.com/Ismaeldugg25/centralized-alert-management-system-aws"
+  - title: "AWS Resources Monitoring with CloudWatch Alarms"
+    category: "AWS"
+    image: "config/assets/projects/Nexus-feat-img2.png"
+    url: "https://github.com/Ismaeldugg25/basic-monitoring-cloudwatch-alarms/tree/main"
+
+
+
+    
