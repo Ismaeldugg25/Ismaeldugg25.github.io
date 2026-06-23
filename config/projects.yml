@@ -21,3 +21,9 @@ PROJECTS:
     category: "AWS"
     image: "config/assets/projects/ec2 asg.png"
     url: "https://github.com/Ismaeldugg25/ec2-launch-templates-auto-scaling"
+  - title: "Weather Alert Notifications System with Lambda and SNS"
+    category: "AWS"
+    image: "config/assets/projects/maxresdefault.jpg"
+    url: "https://github.com/Ismaeldugg25/weather-alert-notifications-lambda-sns"
+
+
