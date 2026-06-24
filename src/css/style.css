@@ -1335,17 +1335,17 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
 
   .sidebar.active { max-height: 584px; }
-
   .sidebar-info { gap: 25px; }
-
-  .avatar-box { border-radius: 30px; }
-
-  .avatar-box img { width: 120px; }
-
+  .avatar-box { 
+    border-radius: 50%;   /* was: 30px */
+    height: 120px;        /* add this — must match the img width */
+  }
+  .avatar-box img { 
+    width: 120px; 
+    height: 120px;         /* add this — was missing, causing the squish */
+  }
   .info-content .name { margin-bottom: 15px; }
-
   .info-content .title { padding: 5px 18px; }
-
   .info_more-btn {
     top: -30px;
     right: -30px;
