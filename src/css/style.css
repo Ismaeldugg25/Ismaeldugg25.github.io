@@ -1338,6 +1338,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   .sidebar-info { gap: 25px; }
   .avatar-box { 
     border-radius: 50%;   /* was: 30px */
+	width: 120px;
     height: 120px;        /* add this — must match the img width */
   }
   .avatar-box img { 
@@ -1836,7 +1837,15 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .sidebar-info { flex-direction: column; }
 
-  .avatar-box img { width: 150px; }
+  .avatar-box {
+    width: 150px;
+    height: 150px;
+  }
+
+  .avatar-box img { 
+    width: 150px;
+    height: 150px;
+  }
 
   .info-content .name {
     white-space: nowrap;
