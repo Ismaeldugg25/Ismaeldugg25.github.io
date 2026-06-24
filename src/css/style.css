@@ -324,7 +324,17 @@ main {
 
 .avatar-box {
   background: var(--bg-gradient-onyx);
-  border-radius: 20px;
+  border-radius: 50%;   /* 20px → 50% turns it from rounded-square into a circle */
+  width: 80px;           /* must equal height */
+  height: 80px;          /* must equal width */
+  overflow: hidden;       /* crops the square image to the round shape */
+}
+
+.avatar-box img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  object-fit: cover;      /* stops the photo from stretching/distorting */
 }
 
 .info-content .name {
