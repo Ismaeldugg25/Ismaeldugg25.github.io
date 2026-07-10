@@ -37,6 +37,14 @@ PROJECTS:
     category: "AWS"
     image: "config/assets/projects/maxresdefault.jpg"
     url: "https://github.com/Ismaeldugg25/aws-compliance-monitoring-config"
+  - title: "Automated Backups Solution with S3 Lifecycle Policies"
+    category: "AWS"
+    image: "config/assets/projects/aws s3 backup .jpg"
+    url: "https://github.com/Ismaeldugg25/automating-backups-with-s3-lifecycle"
+
+
+
+    
 
 
 
