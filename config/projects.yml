@@ -41,10 +41,11 @@ PROJECTS:
     category: "AWS"
     image: "config/assets/projects/aws s3 backup .jpg"
     url: "https://github.com/Ismaeldugg25/automating-backups-with-s3-lifecycle"
+  - title: "Data Expiration Automation with DynamoDB TTL"
+    category: "AWS"
+    image: "config/assets/projects/aws dynamodb .png"
+    url: "https://github.com/Ismaeldugg25/dynamodb-ttl-data-expiration/tree/main"
 
-
-
-    
 
 
 
