@@ -49,6 +49,12 @@ PROJECTS:
     category: "AWS"
     image: "config/assets/projects/AWS KINESIS .png"
     url: "https://github.com/Ismaeldugg25/real-time-data-transformation-firehose"
+  - title: "Trusted Advisor monitoring with CloudWatch and SNS"
+    category: "AWS"
+    image: "config/assets/projects/AWS TRUSTED .jpg"
+    url: "https://github.com/Ismaeldugg25/aws-trusted-advisor-monitoring.git"
+
+
 
 
 
