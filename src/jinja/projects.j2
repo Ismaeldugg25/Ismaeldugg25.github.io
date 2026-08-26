@@ -8,7 +8,7 @@
       <li class="filter-item">
         <button class="active" data-filter-btn>All</button>
       </li>
-      {% set categories = projects.PROJECTS | map(attribute='category') | unique | list %}
+      {% set categories = projects.CATEGORIES %}
       {% for category in categories %}
       <li class="filter-item">
         <button data-filter-btn>{{category}}</button>
