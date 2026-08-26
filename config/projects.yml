@@ -1,5 +1,11 @@
 HEADER:
   label: "Portfolio"
+CATEGORIES:
+  - "AWS"
+  - "Azure"
+  - "Docker"
+  - "Kubernetes"
+  - "AI"
 PROJECTS:
   - title: "Budget Monitoring with AWS Budgets and SNS"
     category: "AWS"
