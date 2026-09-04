@@ -5,7 +5,11 @@ PRESENTATION:
   description: |
     Junior Cloud/DevOps engineer who loves building (and occasionally breaking) things in the cloud.
     
-    With over 4 years of experience in IT technical support, specializing in IoT device management and API monitoring, I've transitioned into cloud infrastructure and DevOps. Bringing a solid foundation in networking, troubleshooting, and system reliability with me. 
+    With over 4 years of experience in IT technical support, specializing in IoT device management and API monitoring, I've transitioned into cloud infrastructure and DevOps. Bringing a solid foundation in networking, troubleshooting, and system reliability with me.
+
+    I'm currently building hands-on experience with AWS, Docker, Terraform, and Kubernetes. Applying these tools to real projects. Plus earlier experience in Linux system administration, networking, and server management.
+
+    Check out my projects in the portfolio section!
   
 DOING:
   enabled: true
