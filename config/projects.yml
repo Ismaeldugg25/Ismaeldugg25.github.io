@@ -75,6 +75,10 @@ PROJECTS:
     category: "AWS"
     image: "config/assets/projects/AWS EB .jpg"
     url: "https://github.com/Ismaeldugg25/flask-catgif-aws-deployed"
+  - title: "Highly Available Web App with ALB, Auto Scaling and Shared EFS Storage"
+    category: "AWS"
+    image: "config/assets/projects/AWS ASG.jpeg"
+    url: "https://github.com/Ismaeldugg25/aws-ha-web-alb-asg-efs"
 
 
 
